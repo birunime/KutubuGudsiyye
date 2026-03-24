@@ -1,1 +1,0 @@
-# Allah'ın Sıfatları

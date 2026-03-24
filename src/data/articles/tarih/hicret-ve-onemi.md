@@ -1,3 +1,0 @@
-# Hicret ve Önemi
-
-

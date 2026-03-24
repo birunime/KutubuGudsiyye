@@ -1,2 +1,0 @@
-# Tefsir Metodları
-

@@ -1,2 +1,0 @@
-# Hulefâ-yi Râşidîn
-
