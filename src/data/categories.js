@@ -7,14 +7,7 @@ export const categories = {
   fikih: {
     label: 'Fıkıh',
     arabic: 'الفقه',
-    articles: [
-      {
-        slug: 'kedi-beslemenin-hukmu',
-        title: 'Kedi Beslemekle İlgili Fıkhî ve Usûlî Hükümler',
-        excerpt: 'Kedi hakkındaki yanılgılar ve kedi tutmanın, beslemenin caizliği hükmünün bütün mezheplere yayılması.',
-        tag: 'Fıkıh',
-      },
-    ],
+    articles: [],
   },
   tarih: {
     label: 'İslam Tarihi',
