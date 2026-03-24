@@ -4,19 +4,14 @@ Kedi hakkındaki yanılgılar ve kedi tutmanın, beslemenin caizliği hükmünü
 
 Kedi, evcil olmakla birlikte tabiatı itibarıyla yırtıcı ve avcı bir hayvandır.
 
----
 
-## Temel Fıkhî Hükümler
-
-### 1. Kedinin Eti Haramdır
+ 1. Kedinin Eti Haramdır
 
 Efendimiz ﷺ, kedinin yırtıcı hayvanlardan olduğunu bildirmiştir. Bu sebeple eti haramdır.
 
-### 2. Kedi Ticaretinden Elde Edilen Kazanç Haramdır
+ 2. Kedi Ticaretinden Elde Edilen Kazanç Haramdır
 
-Resûlullah ﷺ şöyle buyurur:
-
-> *"Kedi ve köpekten elde edilen kazanç haramdır."*
+Resûlullah ﷺ şöyle buyurur: *"Kedi ve köpekten elde edilen kazanç haramdır."*
 
 ### 3. Kedinin Değdiği Kap Yıkanmalıdır
 
