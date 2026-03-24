@@ -60,7 +60,7 @@ Mısır Milli Görüş Öğrenci hareketinin kurucu başkanlığını ve Kenan i
 
 Avrupa'da IGMG'de göreve başladı. 1992'de IGMG Fetva Heyeti'ne katıldı.
 
-### Dünya Müslüman Âlimler Birliği — 1990
+### Dünya Müslüman Âlimler Birliği — 2004
 
 Dünya Müslüman Âlimler Birliği'ni kurdular. Halihazırda aktif olarak hizmet vermektedir.
 
@@ -68,6 +68,6 @@ Dünya Müslüman Âlimler Birliği'ni kurdular. Halihazırda aktif olarak hizme
 
 Avrupa Fıkıh Konseyi üyeliğine başladı. Halihazırda aktif olarak göreve devam etmektedir.
 
-### Almanya Fetva Kurumu — 2004
+### Almanya Fetva Kurumu — 1990
 
 Almanya Fetva Kurumu'nun kurucu üyeleri arasında yer aldı. Halihazırda burada aktif görevini sürdürmektedir.
