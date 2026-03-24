@@ -33,7 +33,8 @@ Yırtıcı hayvanların artıklarına kıyasla haram olması gerekirken istihsan
 
 Resûlullah ﷺ ayakta su içen birini görünce şöyle buyurdu: *"Kedinin seninle aynı kaptan içmesi hoşuna gider mi?"*
 
-Adam "Hayır" deyince bu soruyu yöneltti.
+Adam "Hayır" deyince: 
+*"Kesinlikle seninle aynı kaptan ondan daha kötü biri içti; o da şeytandır"* buyurdu.
 
 - **Râvi:** Ebu Hureyre (radıyallahu anh)
 - **Muhaddis:** El-Bezzar
