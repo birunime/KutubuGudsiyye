@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Lato:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Lato:wght@300;400&family=Lora:ital,wght@0,400;0,500;1,400&display=swap');
 
 :root {
   --ink: #1a1612;
@@ -695,6 +695,51 @@ footer .ornament {
   line-height: 1.85;
   color: var(--ink);
   margin: 0 0 1.25rem;
+}
+
+.article-body h3 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 2rem 0 0.6rem;
+}
+
+.article-body h4 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 1.5rem 0 0.5rem;
+}
+
+.article-body ul,
+.article-body ol {
+  font-family: 'Lora', serif;
+  font-size: 1.05rem;
+  line-height: 1.85;
+  color: var(--ink);
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+}
+
+.article-body li {
+  margin-bottom: 0.4rem;
+}
+
+.article-body blockquote {
+  font-family: 'Lora', serif;
+  font-size: 1.02rem;
+  font-style: italic;
+  line-height: 1.85;
+  color: var(--muted);
+  border-left: 3px solid var(--gold);
+  margin: 1.5rem 0;
+  padding: 0.5rem 0 0.5rem 1.25rem;
+}
+
+.article-body blockquote p {
+  margin: 0;
 }
 
 /* ── RESPONSIVE ── */
