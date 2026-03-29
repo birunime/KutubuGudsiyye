@@ -30,7 +30,7 @@ export const categories = {
     articles: [
       {
         slug: 'nazar_goz_degmesi',
-        title: 'Nazar (Göz Değmesi)',
+        title: 'Nazar (Göz Değmesi) - Bölüm 1',
         excerpt: 'Nazarın tanımı, türleri, fıkhî ve tasavvufî boyutuyla ele alınması.',
         tag: 'Tasavvuf',
       },
