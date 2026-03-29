@@ -27,6 +27,13 @@ export const categories = {
   tasavvuf: {
     label: 'Tasavvuf',
     arabic: 'التصوف',
-    articles: [],
+    articles: [
+      {
+        slug: 'nazar_goz_degmesi',
+        title: 'Nazar (Göz Değmesi)',
+        excerpt: 'Nazarın tanımı, türleri, fıkhî ve tasavvufî boyutuyla ele alınması.',
+        tag: 'Tasavvuf',
+      },
+    ],
   },
 };
