@@ -9,6 +9,7 @@ Kedi, evcil olmakla birlikte tabiatı itibarıyla yırtıcı ve avcı bir hayvan
 ## Temel Fıkhî Hükümler
 
 **1. Kedinin eti haramdır**
+
 Efendimiz ﷺ, kedinin yırtıcı hayvanlardan olduğunu bildirmiştir. Bu sebeple eti haramdır.
 
 **2. Kedi ticaretinden elde edilen kazanç haramdır**
@@ -16,16 +17,20 @@ Resûlullah ﷺ şöyle buyurur:
 > *"Kedi ve köpekten elde edilen kazanç haramdır."*
 
 **3. Kedinin değdiği kap yıkanmalıdır**
+
 Kedinin ağzının değip salyasının bulaştığı kap mutlaka yıkanmalıdır. *(Ebu Hüreyre radıyallahu anh rivayeti)*
 
 **4. Kedinin ev sakini sayılması**
+
 Evcil bir hayvan olduğu için, evin dış alanlarındaki üstü açık olan kaplardan su içmesinden sakınmak ve emin olmak mümkün olmadığından Efendimiz ﷺ kediler için şöyle buyurmuştur:
 > *"…ev sakinlerinden ve aranızda dolaşanlardandır."*
 
 **5. Kedi artığı ile abdest meselesi**
-Kedinin evde bulundurulma illeti; evin ihtiyacı olan yiyecekleri farelerden, yılanlardan ve diğer böcek ve haşerattan korumak için zarureten bulundurulması olduğundan, ağzının ve salyasının değdiği sularla abdest almak mekruh görülmüştür. Yırtıcı hayvanların artıklarına kıyasla haram olması gerekirken istihsanen, kıyasa muhalif gelen rivayetle amel edilmiş; buna rağmen o su ile abdest mekruh görülmüştür.
+
+Kedinin evde bulundurulma illeti; evin ihtiyacı olan yiyecekleri, farelerden, yılanlardan ve diğer böcek ve haşerattan korumak için,zarureten bulundurulması olduğundan, ağzının ve salyasının değdiği sularla abdest almak mekruh görülmüştür. Yırtıcı hayvanların artıklarına kıyasla haram olması gerekirken istihsanen, kıyasa muhalif gelen rivayetle amel edilmiş; buna rağmen o su ile abdest mekruh görülmüştür.
 
 **6. Tiksindirme bağlamındaki hadis**
+
 Resûlullah ﷺ ayakta su içen birini görünce şöyle buyurdu:
 > *"Kedinin seninle aynı kaptan içmesi hoşuna gider mi?"*
 
@@ -37,9 +42,11 @@ Adam "Hayır" deyince:
 > **Hüküm:** Şubenin Ebi Ziyad Et Tahhan'dan bu hadisten başka hadis rivayet ettiği bilinmemektedir.
 
 **7. Ayakta su içmenin yasaklanması**
+
 Enes (r.a.)'ın rivayetine göre Resûl-i Ekrem ﷺ, bir kimsenin ayakta su içmesini yasaklamıştır. Râvi Katâde şöyle dedi: "Enes'e 'Peki ayakta yemek nasıldır?' diye sorduk." Enes (r.a.): *"Ayakta yemek daha da kötüdür"* dedi. *(Müslim, Eşribe, 113)*
 
 **8. Kedinin necis olmama meselesi**
+
 "Kedi necis (pis) değildir" hadisi, diğer haramlığını ifade eden hadislere zıt değil ve onların hükmünü değiştirici de değildir; bilakis tamamlayıcıdır. Zira kedinin necis olmaması:
 
 - Etinin haramlığı cihetiyle değil,
