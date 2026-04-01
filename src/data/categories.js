@@ -41,6 +41,12 @@ export const categories = {
         excerpt: 'Nazarın tanımı, türleri, fıkhî ve tasavvufî boyutuyla ele alınması.',
         tag: 'Tasavvuf',
       },
+      {
+        slug: 'Nazar_Bolum_2',
+        title: 'Nazar: Ayet, Hadis ve Fıkhi Kaynaklar',
+        excerpt: 'İslam\'da göz değmesinin delilleri, korunma yolları ve hukuki boyutları.',
+        tag: 'Tasavvuf',
+      },
     ],
   },
 };
