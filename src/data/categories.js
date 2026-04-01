@@ -43,7 +43,7 @@ export const categories = {
       },
       {
         slug: 'Nazar_Bolum_2',
-        title: 'Nazar: Ayet, Hadis ve Fıkhi Kaynaklar',
+        title: 'Nazar - Bölüm 2: Ayet, Hadis ve Fıkhî Kaynaklar',
         excerpt: 'İslam\'da göz değmesinin delilleri, korunma yolları ve hukuki boyutları.',
         tag: 'Tasavvuf',
       },
