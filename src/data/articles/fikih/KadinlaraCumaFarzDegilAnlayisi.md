@@ -108,4 +108,4 @@ Buradan anlıyoruz ki; cuma için cemaate hazır bulunma farziyetinden istisna e
 
 YUKARDA AKTARDIĞIMIZ SEBEPLERDEN DOLAYI CUMA SAATİNDE CAMİDE BULUNAN HER MÜSLÜMANA CUMAYI KILMAK FARZDIR. KADINA FARZ DEĞİL ANLAYIŞI İLE CUMA KILMAYIP LAHMACUN YAPAN NAMAZA MÜSAİT HANIMLAR ÇOK BÜYÜK GÜNAH İŞLEMEKTELER. HİÇ BİR ENGELLERİ YOKKEN CAMİDE OLUP CUMA NAMAZI KILMAMALARINDAN DAHA BÜYÜK BİR GÜNAH YOK.
 
-**Şeyh Seyyid Abdülkuddûs İhsân el-Hüseynî (kuddise sirruhû)**
+**Şeyh Seyyid Abdul Guddus İhsan El Hüseyni Efendi (Guddusi Baba)**
