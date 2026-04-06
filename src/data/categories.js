@@ -53,6 +53,12 @@ export const categories = {
         excerpt: '',
         tag: 'Tasavvuf',
       },
+      {
+        slug: 'Nazar_Bolum4_Dua',
+        title: 'Nazar - Bölüm 4: Nazar için Dualar',
+        excerpt: 'Dua',
+        tag: 'Tasavvuf',
+      },
     ],
   },
 };

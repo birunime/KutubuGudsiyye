@@ -116,4 +116,4 @@ Bu hadisler, nazarın hak olduğunu, ona karşı önlem alınması gerektiğini 
 ---
 
 *Derleyen, Araştıran ve Tahkik Eden:*
-**Şeyh Seyyid Abdul Guddus Ihsan El-Hüseyni Efendi (Guddusi Hoca)**
+**Şeyh Seyyid Abdul Guddus Ihsan El-Hüseyni Efendi (Guddusi Baba)**
