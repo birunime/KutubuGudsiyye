@@ -15,29 +15,19 @@ Ey tutan ve zarar veren güç! Allah'ın izzeti, kudreti, büyüklüğü, hükü
 # Dua - Koru Allah´ım Celle Celaluhu
 
 İbrahim Halilin (aleyhisselam) ateşten koruduğun gibi beni nefsimin ateşin den, dış düşmanların ateşinden koru,
-
 Yusuf (aleyhisselam)'ı nefsinin hevasından, kadınların fitnesin koruduğun gibi benide nefsimin hevasından bu dönemin kadın fitnesinden koru.
-
 Yusuf (aleyhisselam) ve Kardeşini; kardeş hasedinden ve kininden koruduğun gibi benide koru,
-
 Eyüp (aleyhisselam)'ı nankörlük ve ibtila imtihan içinde ibadetsizlikten koruduğun gibi benide koru.
-
 Zekeriyya (aleyhisselam)'ı ve İbrahim (aleyhisselam)'ı zürriyetsizlikten koruduğun gibi benide koru.
-
 Ashab-ı Kehfin îmanını koruduğun gibi benimde îmanımı koru.
-
 Gökleri cinlerden, ifritlerden koruduğun gibi benide ins ve cinnin şeytanlarından ve ifritlerin den koru.
-
 Benim amelimden güzel ahlakımdan bir şey çalmalarına izin verme,
-
 Semalara ve arşa cin ve insin kafirlerini, şeytan ve ifritleri, mâridleri ulaştırmadığın, dokundurmadığın gibi senin arşın ve nazargahın olan kalbimede ulaştırma, dokundurma onlardan koru, sarayını süslediğin îman nûru ile onları bir bir vur.
-
 Zikr-i Hakimi Sen indirdin Sen koruyorsun beni, îmanla Sen indirdin ve o indirdiğin îman üzere Zikr-i Hâkimi koruduğun gibi koru.
-
 Levh-i mahfuz gibi bu aciz kulunuda korunmuşlarından eyle.
-
 Efendimiz (sallallahu teala aleyhi ve sellem)'e: "Allah seni, insü cinden düşmanlarından korur " dediğin gibi bu fakiride görünen görünmeyen senin bildiğin tüm düşmanlardan koru,
-
 "Allah îman edenlerin müdafisidir" beyanın üzere bu iman etmiş kulunu bildiğin her düşmanına karşı müdafa et, onların oyunlarını boz, tuzaklarına kendilerini düşür de onlardan beni koru.
 
-Şeyh Seyyid Abdul Guddus Ihsan El-Hüseyni Efendi (Guddusi Baba)
+---
+
+**Şeyh Seyyid Abdul Guddus Ihsan El-Hüseyni Efendi (Guddusi Baba)**
