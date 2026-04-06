@@ -47,6 +47,12 @@ export const categories = {
         excerpt: 'İslam\'da göz değmesinin delilleri, korunma yolları ve hukuki boyutları.',
         tag: 'Tasavvuf',
       },
+      {
+        slug: 'Nazar_Bölüm_3',
+        title: 'Nazar - Bölüm 3: Rukye ve Sahabeler',
+        excerpt: '',
+        tag: 'Tasavvuf',
+      },
     ],
   },
 };
