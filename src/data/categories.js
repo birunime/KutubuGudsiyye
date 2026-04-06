@@ -14,6 +14,12 @@ export const categories = {
         excerpt: 'Kedi hakkındaki yanılgılar ve kedi tutmanın, beslemenin caizliği hükmünün bütün mezheplere yayılması.',
         tag: 'Fıkıh',
       },
+      {
+        slug: 'KadinlaraCumaFarzDegilAnlayisi',
+        title: 'Kadınlara Cuma Farz mı?',
+        excerpt: 'Yaygın olan yanlış anlayışa cevaplar.',
+        tag: 'Fıkıh',
+      },
     ],
   },
   tarih: {
