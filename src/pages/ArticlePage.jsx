@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { categories } from '../data/categories';
 
 const mdModules = import.meta.glob('../data/articles/**/*.md', { query: '?raw', import: 'default' });
@@ -48,7 +49,7 @@ export default function ArticlePage() {
       ) : (
         <article className="article-body">
           <div className="article-body-tag">{article.tag}</div>
-          <ReactMarkdown>{content}</ReactMarkdown>
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
         </article>
       )}
     </main>
