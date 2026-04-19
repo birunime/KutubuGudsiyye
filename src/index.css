@@ -742,6 +742,33 @@ footer .ornament {
   margin: 0;
 }
 
+.article-body table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Lora', serif;
+  font-size: 1.02rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.article-body th {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-align: left;
+  padding: 0.6rem 1rem;
+  border-bottom: 2px solid var(--text);
+}
+
+.article-body td {
+  padding: 0.65rem 1rem;
+  border-bottom: 1px solid var(--border);
+  line-height: 1.6;
+}
+
+.article-body tr:last-child td {
+  border-bottom: none;
+}
+
 /* ── RESPONSIVE ── */
 @media (max-width: 600px) {
   .category-header { flex-direction: column; }
