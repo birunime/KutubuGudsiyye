@@ -2,7 +2,14 @@ export const categories = {
   akaid: {
     label: 'Akaid',
     arabic: 'العقيدة',
-    articles: [],
+    articles: [
+      {
+        slug: 'Bilmek_Inanmak_Bölüm1',
+        title: 'Bilmek & Inanmak - Bölüm 1',
+        excerpt: '',
+        tag: 'Akaid',
+      },
+  ],
   },
   fikih: {
     label: 'Fıkıh',

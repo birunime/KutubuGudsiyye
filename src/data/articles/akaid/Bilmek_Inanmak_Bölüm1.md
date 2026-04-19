@@ -67,3 +67,5 @@ Hakikat karşısında insanın üç hâli vardır:
 | Bilir ve teslim olur | Kurtulur |
 
 Allah bizleri hakkı bilip de terk edenlerden değil, hakkı bilip ona teslim olanlardan eylesin. Âmin.
+
+**Şeyh Seyyid Abdul Guddus İhsan El Hüseyni Efendi (Guddusi Baba)**
