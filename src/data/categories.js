@@ -9,6 +9,12 @@ export const categories = {
         excerpt: '',
         tag: 'Akaid',
       },
+      {
+        slug: 'Ehl-i_Sunnet_Kirimizi_Cizgiler_1',
+        title: 'Ehl-i Sünnet ve\'l-Cemaat İnancının Kırmızı Çizgileri (1)',
+        excerpt: 'Günümüzde en fazla tahrife uğrayan meselelerin başında gelen mürted meselesi ekseninde Ehl-i Sünnet itikadının kırmızı çizgileri.',
+        tag: 'Akaid',
+      },
   ],
   },
   fikih: {
